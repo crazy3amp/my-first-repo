@@ -1,20 +1,9 @@
-# This is a large heading
+``#**David**
+##**Gilroy**
 
-## This is a smaller heading
+##**Crazy3amp**```
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
-- This is
-…This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+My motorcycle was hit by a car severaal years ago and I suffered burns to ~ 60% of my body. I spent seven months in a burns ward and had my right arm, right leg and left leg amputated.
+I was determend to live a full life and have fought to get an electric prosthetic arm and prosthetic legs.
+My amputations are -RAEA, -RAKA and -LBKA
+I blog my life on instagram you can follow me [here] (https://www.instagram.com/crazy3amp/)
